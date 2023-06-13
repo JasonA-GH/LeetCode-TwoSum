@@ -4,4 +4,4 @@
 
 My C submission for the Two Sum problem on leetcode.com.
 
-Lots of memory is wasted because the submission needs the index of the original array, so I have to save a copy of the whole array before sorting, and the search the copy to get the original index.
+Lots of memory is wasted because the submission needs the index of the original array, so I have to save a copy of the whole array before sorting, and then search the copy to get the original index.

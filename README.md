@@ -4,4 +4,6 @@
 
 My C submission for the Two Sum problem on leetcode.com.
 
+Given an unsorted array and a target value, you have to find the 2 values that sum to the target.
+
 Lots of memory is wasted because the submission needs the index of the original array, so I have to save a copy of the whole array before sorting, and then search the copy to get the original index.
